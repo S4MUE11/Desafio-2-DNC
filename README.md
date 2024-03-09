@@ -36,6 +36,7 @@ Todos os componentes criados vão seguir uma mesma estrutura de organização: <
 → **index.html:** Responsável pela base do site; <br />
 → **styles.css:** Responsável por toda estilização dos componentes e de toda a pagina; <br />
 → **index.js** Responsavel pela integração da API e executar funções; <br /> 
+→ **imagens:**  Nessa pasta está todas as imagens usadas no site <br />
 
 
 #### **Utilitários**
